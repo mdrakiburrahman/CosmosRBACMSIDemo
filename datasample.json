@@ -1,0 +1,29 @@
+[
+  {
+    "id": "c188bdfc-2cbb-44c2-b7db-c13b6b71079b",
+    "username": "Rosamond.Thompson",
+    "product": "Necklace",
+    "review": "this product is whole-grain.",
+    "rating": "4.8",
+    "reviewDate": "2016-12-23T02:57:49.5883383+00:00",
+    "documentType": "review"
+  },
+  {
+    "id": "ba55e2f2-5ac6-4f80-8dcb-1d308877e0ec",
+    "username": "Candido31",
+    "product": "White Shirt",
+    "review": "SoCal cockroaches are unwelcome, crafty, and tenacious. This product keeps them away.",
+    "rating": "1.5",
+    "reviewDate": "2018-09-02T04:56:11.0647695+00:00",
+    "documentType": "review"
+  },
+  {
+    "id": "1e410a0b-c422-4037-89ca-a5a2b81e92b5",
+    "username": "Marcelino_Zulauf13",
+    "product": "Puffy Jacket",
+    "review": "It only works when I'm Guernsey.",
+    "rating": "2.8",
+    "reviewDate": "2018-09-20T22:37:40.1270869+00:00",
+    "documentType": "review"
+  }
+]
